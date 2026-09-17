@@ -1,0 +1,8 @@
+{
+  "name": "Vocabulaire CAPES",
+  "short_name": "Vocabulaire",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#E4D9F5",
+  "theme_color": "#7C5CBF"
+}
